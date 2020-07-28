@@ -1,6 +1,6 @@
 # Parser-and-Tableau-For-Propositional-Logic
 
-Input/Tableau.c parses all of propositional logic, outputing whether a formula is part of a language according to the grammar:
+Input/Tableau.c parses all of propositional logic, outputing whether a formula is part of the language according to the grammar:
 
 prop ::= p | q | r 
 
