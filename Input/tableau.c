@@ -52,7 +52,7 @@ int main(){
             case(1): fprintf(fpout, "%s is a proposition. \n ", name);break;
             case(2): fprintf(fpout, "%s is a negation.  \n", name);break;
             case(3):fprintf(fpout, "%s is a binary. The first part is %s and the second part is %s  \n", name, partone(name), parttwo(name));break;
-            default:fprintf(fpout, "What the f***!  ");
+            default:fprintf(fpout, " Unexpected ");
         }
 
 
